@@ -1,6 +1,6 @@
 header
 {
-  background-color: #4B9130;
+  background-color: blue;
 }
 
 .botonera
@@ -22,11 +22,11 @@ footer section div p
 }
 
 .newB{
-  background-color: red;
+  background-color: blue;
   border-radius: 50%;
-  transition: 0.3s;
+  transition: 1.3s;
 }
 
 .newB:hover{
-  transform: scale(1.2);
+  transform: scale(3.2);
 }
