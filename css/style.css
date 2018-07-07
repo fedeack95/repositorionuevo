@@ -24,9 +24,9 @@ footer section div p
 .newB{
   background-color: blue;
   border-radius: 50%;
-  transition: 1.3s;
+  transition: 1.4s;
 }
 
 .newB:hover{
-  transform: scale(3.2);
+  transform: scale(8.2);
 }
