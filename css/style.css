@@ -20,3 +20,8 @@ footer section div p
 {
   width: 30%;
 }
+
+.newB{
+  background-color: red;
+  border-radius: 50%;
+}
