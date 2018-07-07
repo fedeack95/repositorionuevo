@@ -1,0 +1,22 @@
+header
+{
+  background-color: #4B9130;
+}
+
+.botonera
+{
+  display: inline-block;
+  list-style: none;
+}
+
+footer{
+  background-color: yellow;
+}
+footer section div img
+{
+  width: 30%;
+}
+footer section div p
+{
+  width: 30%;
+}
